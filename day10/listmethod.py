@@ -1,0 +1,17 @@
+"""list=["ram","syam","sita"]
+name=["hari","sofiya","sangeet"]
+print(len(list))
+list.append("gita")
+print(list)
+list.extend(name)
+print(list)
+list.insert(3,"rakesh")
+print(list)
+list.pop(0)
+print(list)
+list.index("gita")"""
+list=[1,4,3,2,5,7,6,8,]
+list.sort()
+print(list)
+(list.sort(reverse=True))
+print(list)
